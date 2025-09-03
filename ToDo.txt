@@ -53,6 +53,15 @@ Használt szoftverek:
 	
 ----------
 
+SQL ismeretek:
+	- https://webiskola.hu/sql-alapok-kezdoknek/
+	- https://www.slideshare.net/slideshow/introduction-to-sql-70208645/70208645
+	- https://ewk.hu -> _usesfile_ -> baross -> Az SQL nyelv alapjai pptx
+	- https://www.agt.bme.hu/szakm/adatb/db5.htm
+	- https://adoc.pub/adatbazis-alapjai-keszitette-siki-zoltan.html
+
+----------
+
 Beadandók:
 	
 	-alapérelmezés -> Teams
