@@ -1,0 +1,39 @@
+2025-09-03
+
+----------
+
+Tanár: Sebán Péter
+Hivatalos kommunikációs platform: Teams
+
+Mottó: "Aki nem akar dolgozni, az ne is egyék!"
+
+----------
+Bevezetés:
+
+	-vizsgaremek teamek kialakítása
+	-vizsgakövetelmény rendszer:
+			- https://infojegyzet.hu/szakkepzes/szoftverfejleszto/
+	-vizsgaremek:
+		-laravel -> php alapú keretrendszerben
+			-frontend, backend js-ben integrálva
+			-laravel pélaoldalak:
+				- https://fivejars.com/insights/10-excellent-laravel-website-examples/
+
+----------
+	
+Tanév témái:
+
+	-sql ismeretek
+	-php alapismeretek
+	-php OOP ismeretek
+	-php mySQL függvények és használatuk
+	-restAPI, restFUL architechtúra, php restAPI
+	-laravel keretrendszer, backend ismerete, használata
+	-vizsgaremek backend elkészítése
+	
+----------
+
+Beadandók:
+	
+	-alapérelmezés -> Teams
+	-vizsgaremek -> GitHub
