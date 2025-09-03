@@ -7,6 +7,8 @@ Hivatalos kommunikációs platform: Teams
 
 Mottó: "Aki nem akar dolgozni, az ne is egyék!"
 
+Mobil használata órán tilos!
+
 ----------
 Bevezetés:
 
@@ -30,6 +32,24 @@ Tanév témái:
 	-restAPI, restFUL architechtúra, php restAPI
 	-laravel keretrendszer, backend ismerete, használata
 	-vizsgaremek backend elkészítése
+
+----------
+	
+Használt szoftverek:
+
+	-XAMPP:
+		-webszever -> apache
+		-adatbázis szerver -> mySQL
+		-phpMyAdmin -> adatbázis grafikus kliens
+		-php
+		
+		-XAMPP Control Panel -> apache és mySQL indítása
+			-böngészőben: "localhost"
+			-létrehozom a "c:\xampp\htdocs\php" mappát -> ide fejlesztem az összes php projektemet
+	
+	-Kód editor:
+		-Visual Studio Code
+		-PhpStorm
 	
 ----------
 
